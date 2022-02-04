@@ -1,8 +1,8 @@
-### Game Play Analysis III
+### Game Play Analysis IV
 
 ------
 
-문제 주소: https://leetcode.com/problems/game-play-analysis-iii/
+문제 주소: https://leetcode.com/problems/game-play-analysis-iv/
 
 
 
