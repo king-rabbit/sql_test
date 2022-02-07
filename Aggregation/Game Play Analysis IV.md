@@ -22,7 +22,7 @@ Table: Activity
 
 player_id, event_date가 primary key임.    
 
-플레이어별, 날짜순으로 플레이한 게임의 누적 개수를 구하시오.           
+CJDMA          
 
 ​    
 
